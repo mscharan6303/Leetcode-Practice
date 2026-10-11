@@ -9,6 +9,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/mscharan6303/Leetcode-Practice/tree/master/0020-valid-parentheses) |
+| [0496-next-greater-element-i](https://github.com/mscharan6303/Leetcode-Practice/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/mscharan6303/Leetcode-Practice/tree/master/0739-daily-temperatures) |
 ## Bracket Sequences
 |  |
@@ -17,9 +18,15 @@
 ## Array
 |  |
 | ------- |
+| [0496-next-greater-element-i](https://github.com/mscharan6303/Leetcode-Practice/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/mscharan6303/Leetcode-Practice/tree/master/0739-daily-temperatures) |
 ## Monotonic Stack
 |  |
 | ------- |
+| [0496-next-greater-element-i](https://github.com/mscharan6303/Leetcode-Practice/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/mscharan6303/Leetcode-Practice/tree/master/0739-daily-temperatures) |
+## Hash Table
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/mscharan6303/Leetcode-Practice/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
