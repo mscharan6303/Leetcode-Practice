@@ -3,7 +3,7 @@ class Solution {
         int n=nums.length;
         ArrayList<Integer> list=new ArrayList<>();
         for(int i=0;i<n;i++){
-            if(n%(i+1)==0){
+            if(n%(i+1)==0){  //i+1 is taken because in the question they mentioned 1-indexed 
                 list.add(nums[i]);
             }
         }
