@@ -24,6 +24,7 @@
 | [0496-next-greater-element-i](https://github.com/mscharan6303/Leetcode-Practice/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/mscharan6303/Leetcode-Practice/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/mscharan6303/Leetcode-Practice/tree/master/0739-daily-temperatures) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/mscharan6303/Leetcode-Practice/tree/master/2778-sum-of-squares-of-special-elements) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -43,4 +44,8 @@
 |  |
 | ------- |
 | [0456-132-pattern](https://github.com/mscharan6303/Leetcode-Practice/tree/master/0456-132-pattern) |
+## Enumeration
+|  |
+| ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/mscharan6303/Leetcode-Practice/tree/master/2778-sum-of-squares-of-special-elements) |
 <!---LeetCode Topics End-->
