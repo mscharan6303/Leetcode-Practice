@@ -20,6 +20,7 @@
 ## Array
 |  |
 | ------- |
+| [0015-3sum](https://github.com/mscharan6303/Leetcode-Practice/tree/master/0015-3sum) |
 | [0456-132-pattern](https://github.com/mscharan6303/Leetcode-Practice/tree/master/0456-132-pattern) |
 | [0496-next-greater-element-i](https://github.com/mscharan6303/Leetcode-Practice/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/mscharan6303/Leetcode-Practice/tree/master/0503-next-greater-element-ii) |
@@ -48,4 +49,12 @@
 |  |
 | ------- |
 | [2778-sum-of-squares-of-special-elements](https://github.com/mscharan6303/Leetcode-Practice/tree/master/2778-sum-of-squares-of-special-elements) |
+## Two Pointers
+|  |
+| ------- |
+| [0015-3sum](https://github.com/mscharan6303/Leetcode-Practice/tree/master/0015-3sum) |
+## Sorting
+|  |
+| ------- |
+| [0015-3sum](https://github.com/mscharan6303/Leetcode-Practice/tree/master/0015-3sum) |
 <!---LeetCode Topics End-->
